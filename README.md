@@ -4,6 +4,6 @@ The codes were developed while taking the Neural Networks and Deep Learning cour
 2. 2_Layer_NN: 2 layer ANN for planar data classification (output classification image attached).
 ![image](https://github.com/user-attachments/assets/d89713bd-3afc-4644-861d-4a4d2a8f1f6c)
 3. Ensemble_book: Codes while reading Ensemble Methods for Machine Learning
-4. DeepONet: Practice code (Unstacked)
+4. DeepONet: Practice code (Unstacked)\\
 ![image](https://github.com/user-attachments/assets/09ea2738-cb77-426c-877f-db90476b92d6)
 
